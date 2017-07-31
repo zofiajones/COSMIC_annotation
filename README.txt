@@ -1,4 +1,5 @@
 get_multiplex_annotations.sh - master script
+data.sql - mysql import script
 
 #fetches all mutations from central database
 #creates vcf file
